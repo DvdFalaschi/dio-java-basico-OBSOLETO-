@@ -1,0 +1,1 @@
+Configuração basica da Ide.
